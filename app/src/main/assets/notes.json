@@ -1,0 +1,62 @@
+[
+   {
+      "color":"#ff0000",
+      "description":"Не забудь протереть пыль под кроватью",
+      "id":0,
+      "title":"Убрать комнату"
+   },
+   {
+      "color":"#ffffff",
+      "description":"Ленина 38а",
+      "id":0,
+      "title":"Забрать трудовую"
+   },
+   {
+      "color":"#ffffff",
+      "description":"Они раядом с ноутбуком",
+      "id":0,
+      "title":"Взять ключи"
+   },
+   {
+      "color":"#ffffff",
+      "description":"Sketch",
+      "id":0,
+      "title":"Оплатить подписку"
+   },
+   {
+      "color":"#ffffff",
+      "description":"Прочитать все статьи в закладках",
+      "id":0,
+      "title":"Flutter"
+   },
+   {
+      "color":"#ffffff",
+      "description":"Еда в синей кастрюле",
+      "id":0,
+      "title":"Покормить кота"
+   },
+   {
+      "color":"#ffffff",
+      "description":"Закончить курс на Stepik",
+      "id":0,
+      "title":"Научиться разрабатывать iOS приложения"
+   },
+   {
+      "color":"#ffffff",
+      "description":"PHP или NodeJS?",
+      "id":0,
+      "title":"Доделать бэкенд для своего petProject"
+   },
+   {
+      "color":"#ffffff",
+      "description":"!!!!!!",
+      "id":0,
+      "title":"Забрать наушники у друга"
+   },
+   {
+      "color":"#ffffff",
+      "description":"Спрей? Таблетки?",
+      "id":0,
+      "title":"Купить лекарство"
+   }
+]

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Notes App</string>
+    <string name="cant_update">Не удалось обновить заметку</string>
+    <string name="cant_save">Заметка не сохранена</string>
+    <string name="save">Сохранить</string>
+    <string name="hint_title">Заголовок</string>
+    <string name="hint_description">Что хотите записать?</string>
+    <string name="btn_pick_color">Выберите цвет</string>
+    <string name="title_edit">Редактировать заметку</string>
+    <string name="title_create">Создать заметку</string>
+    <string name="exp_blank">Заметка не может быть пустой</string>
+    <string name="note_saved">Заметка сохранена</string>
+</resources>
